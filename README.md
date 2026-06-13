@@ -6,7 +6,7 @@ An independent, AI-built **concept redesign** of India's rail booking experience
 
 ## 🔗 Live demo
 
-`https://<your-username>.github.io/irctc-redesign-concept/`
+https://chaturvedirohit.github.io/irctc-redesign-concept/
 
 > Note: voice search uses your browser's speech recognition and works best in **Chrome (desktop or Android)** with microphone access allowed. Elsewhere it falls back to a sample query.
 
